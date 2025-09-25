@@ -1,5 +1,6 @@
 # Glioma_Network_BDM_Signatures
-The codes and results associated with our paper "Decoding Neurodevelopmental Dynamics in Pediatric High-Grade Gliomas: Divergences in Transcriptomic Network Complexity from Healthy Neural Stem Cell Signatures". 
+The codes and results associated with our paper "Complexity-Informed Causal Modeling of Neurodevelopmental Trajectories in Pediatric High-Grade Gliomas: Divergences from Neural Stem Cell Signatures".
+https://doi.org/10.48550/arXiv.2508.13198
 
 Our complex systems approaches reveal causal drivers of developmental plasticity and state-transitions in pediatric High-Grade Gliomas (pHGGs).
 This repository contains code for deriving BDM-based plasticity signatures from bulk and single-cell transcriptomic data to identify causal biomarkers regulating glioma cell fate decisions. Our study reveals neurodevelopmental attractor biases, bioelectric/neurotransmitter circuitry, and ECM–immune coupling as interlinked drivers of malignant plasticity, proposing actionable targets for predictive, preventive, and precision oncology.
